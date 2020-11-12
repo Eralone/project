@@ -1,0 +1,4 @@
+>?@>A: :0: 2K25AB8 <0AA82 ?5@5<5==KE 2 >4=>< write?    B25B: 2848<> - =8:0:...
+>?@>A: 0 <>6=> ;8 =5A:>;L:> write 8A?>;L7>20BL 2 >4=>< A>740=88 D09;0?    B25B: <>6=>
+!59G0A 1C45B >?8A0=85 FileOutputStream =0 0=3;89A:><:
+A file output stream is an output stream for writing data to a File or to a FileDescriptor. Whether or not a file is available or may be created depends upon the underlying platform. Some platforms, in particular, allow a file to be opened for writing by only one FileOutputStream (or other file-writing object) at a time. In such situations the constructors in this class will fail if the file involved is already open.
