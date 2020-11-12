@@ -22,5 +22,4 @@ public class GameMap extends JPanel {
                 "\n fieldSizeY = " + fieldSizeY +
                 "\n winLength = " + winLength);
     }
-
 }

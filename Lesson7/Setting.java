@@ -160,10 +160,6 @@ public class Setting extends JFrame {  // подключение к библио
         panelWindow.add(blackW);
         add(redW);
         add(panelWindow);
-
-
-
-
             }
         }
 

@@ -59,5 +59,4 @@ public class MainWindow extends JFrame { // подключение к библи
     void startNewGame(int mode, int fieldSizeX, int fieldSizeY, int winLength) { // Критерии для старта игры, которые принимаються с Setting и отдаются в GameMap
         gameMap.startNewGame(mode, fieldSizeX, fieldSizeY, winLength); // Отдать в метод startNewGame, класса gameMap - значение переменных
     }
-
 }
